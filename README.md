@@ -1,7 +1,11 @@
-Hi I am Siva Sanjay
-#New Project Work IN Progress
+# Hi, I'm Siva Sanjay 👋
 
-<!---
-SivaSanjayT/SivaSanjayT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 Game Developer by passion, programmer by profession.
+
+Building games, creating tools, and turning ambitious ideas into playable experiences.
+
+🚀 Founder of NexusForge Studio  
+💻 Unity • C# • Game Systems  
+🎯 Dreaming big, building one project at a time.
+
+*Making games worth playing and tools worth using.*
